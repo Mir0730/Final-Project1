@@ -1,0 +1,15 @@
+.airsoft-gear {
+    bottom: 50px;       
+    left: 20px;         
+    width: auto;        
+    text-align: left;  
+}
+
+.airsoft-gear h2 {
+    margin: 0 0 10px; /* Add some spacing between the heading and the image */
+}
+
+.airsoft-gear .content-image {
+    max-width: 30%; /* Adjust the size of the image */
+    height: auto;     /* Keep aspect ratio */
+}
